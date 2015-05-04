@@ -1,7 +1,7 @@
 package laporan2;
 
 public class nilaidefault {
-	static boolean bool;
+	static boolean bool; // ini maksudnya apaa???? ..^_^
 	static byte by;
 	static char ch;
 	static double d;
